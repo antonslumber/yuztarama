@@ -13,4 +13,3 @@ A Python-based face detection and facial landmark recognition project using Open
 - 📷 **Image Processing**: Real-time face detection from static images and webcam feeds
 - 🔧 **Multiple Implementations**: Different approaches for various use cases
 
-## Project Structure
